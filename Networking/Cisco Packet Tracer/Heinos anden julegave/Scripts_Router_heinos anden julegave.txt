@@ -1,0 +1,75 @@
+Router0 = 1.0
+Router1 = 1.1
+R0-R1 = 1.2
+
+1.0 konfigurering af router0 (LAN1 g0/0 og LAN2 g0/1) fra Heinos Anden Julegave, opgave fra GF2 E2024 (som eksempel)
+
+*Tryk ENTER
+enable
+configure terminal
+hostname router0_LAN1+2
+interface g0/0
+ip address 172.16.10.1 255.255.255.0
+ipv6 address 2001:cafe:8888:1::1/64
+no shutdown
+exit
+ipv6 unicast-routing
+
+interface g0/1
+ip address 172.16.11.1 255.255.255.128
+ipv6 address 2001:cafe:8888:2::1/64
+no shutdown
+exit
+ipv6 unicast-routing
+
+interface se0/0/0
+ip address 172.16.11.225 255.255.255.252
+ipv6 address 2001:cafe:8888:5::1/64
+no shutdown
+exit
+ipv6 unicast-routing
+
+1.1 konfigurering af router1 (LAN3 g0/0 og LAN4 g0/1)
+
+*Tryk ENTER
+enable
+configure terminal
+hostname router1_LAN3+4
+interface g0/0
+ip address 172.16.11.129 255.255.255.192
+ipv6 address 2001:cafe:8888:3::1/64
+no shutdown
+exit
+ipv6 unicast-routing
+
+int g0/1
+ip add 172.16.11.193 255.255.255.224
+ipv6 add 2001:cafe:8888:4::1/64
+no shutdown
+exit
+ipv6 unicast-routing
+
+int se0/0/0
+ip add 172.16.11.226 255.255.255.252
+ipv6 add 2001:cafe:8888:5::2/64
+no shutdown
+exit
+ipv6 unicast-routing
+
+1.2 Konfiguration R0-R1 (LAN5)
+For at få forbindelse mellem R0-R1, skal der bruges static route
+ip route x
+
+Router0:
+int se0/0/0
+ip route 172.16.11.129 255.255.255.192 172.16.11.226
+ip route 172.16.11.193 255.255.255.224 172.16.11.226
+ipv6 route 2001:cafe:8888:3::1/64 2001:cafe:8888:5::2/64
+ipv6 route 2001:cafe:8888:4::1/64 2001:cafe:8888:5::2/64
+
+Router1:
+int se0/0/0
+ip route 172.16.10.0 255.255.255.0 172.16.11.225
+ip route 172.16.11.0 255.255.255.128 172.16.11.225
+ipv6 route 2001:cafe:8888:1::1/64 2001:cafe:8888:5::1/64
+ipv6 route 2001:cafe:8888:2::1/64 2001:cafe:8888:5::1/64
