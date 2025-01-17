@@ -1,7 +1,0 @@
-C:\Users\mathi\OneDrive - TECHCOLLEGE\Data- og kommunikations\Visual studios projects\repos\Opgaver\Opgave 1_Dynamisk quizgenerator_easy-medium diff\bin\Debug\Opgave 1_Dynamisk quizgenerator_easy-medium diff.exe.config
-C:\Users\mathi\OneDrive - TECHCOLLEGE\Data- og kommunikations\Visual studios projects\repos\Opgaver\Opgave 1_Dynamisk quizgenerator_easy-medium diff\bin\Debug\Opgave 1_Dynamisk quizgenerator_easy-medium diff.exe
-C:\Users\mathi\OneDrive - TECHCOLLEGE\Data- og kommunikations\Visual studios projects\repos\Opgaver\Opgave 1_Dynamisk quizgenerator_easy-medium diff\bin\Debug\Opgave 1_Dynamisk quizgenerator_easy-medium diff.pdb
-C:\Users\mathi\OneDrive - TECHCOLLEGE\Data- og kommunikations\Visual studios projects\repos\Opgaver\Opgave 1_Dynamisk quizgenerator_easy-medium diff\obj\Debug\Opgave 1_Dynamisk quizgenerator_easy-medium diff.csproj.AssemblyReference.cache
-C:\Users\mathi\OneDrive - TECHCOLLEGE\Data- og kommunikations\Visual studios projects\repos\Opgaver\Opgave 1_Dynamisk quizgenerator_easy-medium diff\obj\Debug\Opgave 1_Dynamisk quizgenerator_easy-medium diff.csproj.CoreCompileInputs.cache
-C:\Users\mathi\OneDrive - TECHCOLLEGE\Data- og kommunikations\Visual studios projects\repos\Opgaver\Opgave 1_Dynamisk quizgenerator_easy-medium diff\obj\Debug\Opgave 1_Dynamisk quizgenerator_easy-medium diff.exe
-C:\Users\mathi\OneDrive - TECHCOLLEGE\Data- og kommunikations\Visual studios projects\repos\Opgaver\Opgave 1_Dynamisk quizgenerator_easy-medium diff\obj\Debug\Opgave 1_Dynamisk quizgenerator_easy-medium diff.pdb
