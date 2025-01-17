@@ -1,0 +1,14 @@
+C:\Users\mathi\OneDrive - TECHCOLLEGE\Data- og kommunikations\Visual studios projects\repos\Opgave 5_grundlægende simuleret virksomhed\bin\Debug\Opgave 5_grundlægende simuleret virksomhed.exe.config
+C:\Users\mathi\OneDrive - TECHCOLLEGE\Data- og kommunikations\Visual studios projects\repos\Opgave 5_grundlægende simuleret virksomhed\bin\Debug\Opgave 5_grundlægende simuleret virksomhed.exe
+C:\Users\mathi\OneDrive - TECHCOLLEGE\Data- og kommunikations\Visual studios projects\repos\Opgave 5_grundlægende simuleret virksomhed\bin\Debug\Opgave 5_grundlægende simuleret virksomhed.pdb
+C:\Users\mathi\OneDrive - TECHCOLLEGE\Data- og kommunikations\Visual studios projects\repos\Opgave 5_grundlægende simuleret virksomhed\obj\Debug\Opgave 5_grundlægende simuleret virksomhed.csproj.AssemblyReference.cache
+C:\Users\mathi\OneDrive - TECHCOLLEGE\Data- og kommunikations\Visual studios projects\repos\Opgave 5_grundlægende simuleret virksomhed\obj\Debug\Opgave 5_grundlægende simuleret virksomhed.csproj.CoreCompileInputs.cache
+C:\Users\mathi\OneDrive - TECHCOLLEGE\Data- og kommunikations\Visual studios projects\repos\Opgave 5_grundlægende simuleret virksomhed\obj\Debug\Opgave 5_grundlægende simuleret virksomhed.exe
+C:\Users\mathi\OneDrive - TECHCOLLEGE\Data- og kommunikations\Visual studios projects\repos\Opgave 5_grundlægende simuleret virksomhed\obj\Debug\Opgave 5_grundlægende simuleret virksomhed.pdb
+C:\Users\mathi\OneDrive - TECHCOLLEGE\Data- og kommunikations\Visual studios projects\repos\Opgaver\Opgave 5_grundlægende simuleret virksomhed\bin\Debug\Opgave 5_grundlægende simuleret virksomhed.exe.config
+C:\Users\mathi\OneDrive - TECHCOLLEGE\Data- og kommunikations\Visual studios projects\repos\Opgaver\Opgave 5_grundlægende simuleret virksomhed\bin\Debug\Opgave 5_grundlægende simuleret virksomhed.exe
+C:\Users\mathi\OneDrive - TECHCOLLEGE\Data- og kommunikations\Visual studios projects\repos\Opgaver\Opgave 5_grundlægende simuleret virksomhed\bin\Debug\Opgave 5_grundlægende simuleret virksomhed.pdb
+C:\Users\mathi\OneDrive - TECHCOLLEGE\Data- og kommunikations\Visual studios projects\repos\Opgaver\Opgave 5_grundlægende simuleret virksomhed\obj\Debug\Opgave 5_grundlægende simuleret virksomhed.csproj.AssemblyReference.cache
+C:\Users\mathi\OneDrive - TECHCOLLEGE\Data- og kommunikations\Visual studios projects\repos\Opgaver\Opgave 5_grundlægende simuleret virksomhed\obj\Debug\Opgave 5_grundlægende simuleret virksomhed.csproj.CoreCompileInputs.cache
+C:\Users\mathi\OneDrive - TECHCOLLEGE\Data- og kommunikations\Visual studios projects\repos\Opgaver\Opgave 5_grundlægende simuleret virksomhed\obj\Debug\Opgave 5_grundlægende simuleret virksomhed.exe
+C:\Users\mathi\OneDrive - TECHCOLLEGE\Data- og kommunikations\Visual studios projects\repos\Opgaver\Opgave 5_grundlægende simuleret virksomhed\obj\Debug\Opgave 5_grundlægende simuleret virksomhed.pdb
