@@ -1,0 +1,14 @@
+C:\Users\mathi\source\repos\Hello World1\Hello World1\bin\Debug\Hello World1.exe.config
+C:\Users\mathi\source\repos\Hello World1\Hello World1\bin\Debug\Hello World1.exe
+C:\Users\mathi\source\repos\Hello World1\Hello World1\bin\Debug\Hello World1.pdb
+C:\Users\mathi\source\repos\Hello World1\Hello World1\obj\Debug\Hello World1.csproj.AssemblyReference.cache
+C:\Users\mathi\source\repos\Hello World1\Hello World1\obj\Debug\Hello World1.csproj.CoreCompileInputs.cache
+C:\Users\mathi\source\repos\Hello World1\Hello World1\obj\Debug\Hello World1.exe
+C:\Users\mathi\source\repos\Hello World1\Hello World1\obj\Debug\Hello World1.pdb
+C:\Users\mathi\OneDrive - TECHCOLLEGE\Data- og kommunikations\Visual studios projects\repos\Opgaver\Hello World1\Hello World1\bin\Debug\Hello World1.exe.config
+C:\Users\mathi\OneDrive - TECHCOLLEGE\Data- og kommunikations\Visual studios projects\repos\Opgaver\Hello World1\Hello World1\bin\Debug\Hello World1.exe
+C:\Users\mathi\OneDrive - TECHCOLLEGE\Data- og kommunikations\Visual studios projects\repos\Opgaver\Hello World1\Hello World1\bin\Debug\Hello World1.pdb
+C:\Users\mathi\OneDrive - TECHCOLLEGE\Data- og kommunikations\Visual studios projects\repos\Opgaver\Hello World1\Hello World1\obj\Debug\Hello World1.csproj.AssemblyReference.cache
+C:\Users\mathi\OneDrive - TECHCOLLEGE\Data- og kommunikations\Visual studios projects\repos\Opgaver\Hello World1\Hello World1\obj\Debug\Hello World1.csproj.CoreCompileInputs.cache
+C:\Users\mathi\OneDrive - TECHCOLLEGE\Data- og kommunikations\Visual studios projects\repos\Opgaver\Hello World1\Hello World1\obj\Debug\Hello World1.exe
+C:\Users\mathi\OneDrive - TECHCOLLEGE\Data- og kommunikations\Visual studios projects\repos\Opgaver\Hello World1\Hello World1\obj\Debug\Hello World1.pdb
