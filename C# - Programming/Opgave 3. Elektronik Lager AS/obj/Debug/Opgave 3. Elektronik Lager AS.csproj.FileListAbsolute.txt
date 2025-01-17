@@ -1,0 +1,14 @@
+C:\Users\mathi\source\repos\Opgaver\Opgave 3. Elektronik Lager AS\bin\Debug\Opgave_3.Elektronik_Lager_AS.exe.config
+C:\Users\mathi\source\repos\Opgaver\Opgave 3. Elektronik Lager AS\bin\Debug\Opgave_3.Elektronik_Lager_AS.exe
+C:\Users\mathi\source\repos\Opgaver\Opgave 3. Elektronik Lager AS\bin\Debug\Opgave_3.Elektronik_Lager_AS.pdb
+C:\Users\mathi\source\repos\Opgaver\Opgave 3. Elektronik Lager AS\obj\Debug\Opgave 3. Elektronik Lager AS.csproj.AssemblyReference.cache
+C:\Users\mathi\source\repos\Opgaver\Opgave 3. Elektronik Lager AS\obj\Debug\Opgave 3. Elektronik Lager AS.csproj.CoreCompileInputs.cache
+C:\Users\mathi\source\repos\Opgaver\Opgave 3. Elektronik Lager AS\obj\Debug\Opgave_3.Elektronik_Lager_AS.exe
+C:\Users\mathi\source\repos\Opgaver\Opgave 3. Elektronik Lager AS\obj\Debug\Opgave_3.Elektronik_Lager_AS.pdb
+C:\Users\mathi\OneDrive - TECHCOLLEGE\Data- og kommunikations\Visual studios projects\repos\Opgaver\Opgave 3. Elektronik Lager AS\bin\Debug\Opgave_3.Elektronik_Lager_AS.exe.config
+C:\Users\mathi\OneDrive - TECHCOLLEGE\Data- og kommunikations\Visual studios projects\repos\Opgaver\Opgave 3. Elektronik Lager AS\bin\Debug\Opgave_3.Elektronik_Lager_AS.exe
+C:\Users\mathi\OneDrive - TECHCOLLEGE\Data- og kommunikations\Visual studios projects\repos\Opgaver\Opgave 3. Elektronik Lager AS\bin\Debug\Opgave_3.Elektronik_Lager_AS.pdb
+C:\Users\mathi\OneDrive - TECHCOLLEGE\Data- og kommunikations\Visual studios projects\repos\Opgaver\Opgave 3. Elektronik Lager AS\obj\Debug\Opgave 3. Elektronik Lager AS.csproj.AssemblyReference.cache
+C:\Users\mathi\OneDrive - TECHCOLLEGE\Data- og kommunikations\Visual studios projects\repos\Opgaver\Opgave 3. Elektronik Lager AS\obj\Debug\Opgave 3. Elektronik Lager AS.csproj.CoreCompileInputs.cache
+C:\Users\mathi\OneDrive - TECHCOLLEGE\Data- og kommunikations\Visual studios projects\repos\Opgaver\Opgave 3. Elektronik Lager AS\obj\Debug\Opgave_3.Elektronik_Lager_AS.exe
+C:\Users\mathi\OneDrive - TECHCOLLEGE\Data- og kommunikations\Visual studios projects\repos\Opgaver\Opgave 3. Elektronik Lager AS\obj\Debug\Opgave_3.Elektronik_Lager_AS.pdb
